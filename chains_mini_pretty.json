@@ -1100,7 +1100,7 @@
     "symbol": "OY",
     "decimals": 18
   },
-  "rpc": ["https://rpc-mainnet.oychain.io"],
+  "rpc": ["https://rpc.oychain.io"],
   "faucets": [],
   "infoURL": "https://www.oychain.io"
 }, {
@@ -1974,6 +1974,19 @@
   "rpc": ["https://tapi.entercoin.net/"],
   "faucets": [],
   "infoURL": "https://entercoin.net"
+}, {
+  "name": "OYchain Testnet",
+  "chainId": 1268,
+  "shortName": "oychain testnet",
+  "networkId": 1268,
+  "nativeCurrency": {
+    "name": "OYchain Token",
+    "symbol": "OY",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.oychain.io"],
+  "faucets": ["https://faucet.oychain.io"],
+  "infoURL": "https://www.oychain.io"
 }, {
   "name": "HALO Mainnet",
   "chainId": 1280,
