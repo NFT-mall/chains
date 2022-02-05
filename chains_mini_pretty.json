@@ -1091,7 +1091,7 @@
   "faucets": [],
   "infoURL": "https://decentralized-web.tech/dw_chain.php"
 }, {
-  "name": "OYchain Testnet",
+  "name": "OYchain Mainnet",
   "chainId": 126,
   "shortName": "oychain",
   "networkId": 126,
@@ -1100,9 +1100,9 @@
     "symbol": "OY",
     "decimals": 18
   },
-  "rpc": ["https://rpc.cntop3.com"],
-  "faucets": ["https://faucet.cntop3.com"],
-  "infoURL": "https://www.cntop3.com"
+  "rpc": ["https://rpc-mainnet.oychain.io"],
+  "faucets": [],
+  "infoURL": "https://www.oychain.io"
 }, {
   "name": "Factory 127 Mainnet",
   "chainId": 127,
