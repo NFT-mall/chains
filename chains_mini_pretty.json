@@ -1093,7 +1093,7 @@
 }, {
   "name": "OYchain Mainnet",
   "chainId": 126,
-  "shortName": "oychain",
+  "shortName": "oychain mainnet",
   "networkId": 126,
   "nativeCurrency": {
     "name": "OYchain Token",
