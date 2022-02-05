@@ -1100,7 +1100,7 @@
     "symbol": "OY",
     "decimals": 18
   },
-  "rpc": ["https://rpc.oychain.io"],
+  "rpc": ["https://rpc.mainnet.oychain.io"],
   "faucets": [],
   "infoURL": "https://www.oychain.io"
 }, {

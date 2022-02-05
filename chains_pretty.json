@@ -1434,7 +1434,7 @@
   "name": "OYchain Mainnet",
   "chain": "OYchain",
   "icon": "oychain",
-  "rpc": ["https://rpc.oychain.io"],
+  "rpc": ["https://rpc.mainnet.oychain.io"],
   "faucets": [],
   "nativeCurrency": {
     "name": "OYchain Token",
